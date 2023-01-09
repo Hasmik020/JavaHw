@@ -1,3 +1,4 @@
+package Hw5ScannerTriangleAndCalendar;
 import java.util.Scanner;
 public class HwTriangle {
     public static void main(String[] args) {
